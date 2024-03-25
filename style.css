@@ -280,7 +280,7 @@ nav a {
 }
 
 #video-container div {
-  background-image: url("/images/video-backgroun.jpg");
+  background-image: url("./images/video-backgroun.jpg");
   background-size: cover;
 }
 
